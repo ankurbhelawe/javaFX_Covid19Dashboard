@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="DA317bce1074.jnlp">
+  <information>
+    <title>DA317bce1074</title>
+    <vendor>Ankur Bhelawe</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="DA317bce1074.jar" size="12329" download="eager" />
+    <jar href="lib\mysql-connector-java-8.0.17.jar" size="2321813" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="DA317bce1074.DA317bce1074"  name="DA317bce1074" />
+  <update check="always"/>
+</jnlp>
